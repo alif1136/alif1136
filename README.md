@@ -1,4 +1,6 @@
 # 💫 About Me:
+HI!!
+I am Md. Alif Bin Saudh,
 💻 I am an aspiring Computer Science student with a strong passion for mobile app development and modern technologies.<br><br>🚀 Currently, I am learning and building real-world applications using Flutter, Dart, Firebase, and REST APIs.<br><br>📱 I have developed projects like:<br>- Recipe Recommendation App (AI-based)<br>- E-commerce App<br>- Task Management System<br><br>🌱 I am continuously improving my skills in clean architecture, state management, and backend integration.<br><br>🎯 My goal is to become a professional Flutter developer and build impactful applications that solve real-world problems.<br><br>🔥 I am highly motivated, a fast learner, and always ready to explore new technologies.
 
 
